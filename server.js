@@ -3,7 +3,7 @@ const cors = require("cors");
 const app = express();
 
 var corsOptions = {
-  origin: "https://bez-tutorial-app.netlify.app/"
+  origin: "https://natasha-tutorial.netlify.app/"
   //origin: "https://localhost:3000"
 };
 
